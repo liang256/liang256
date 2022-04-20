@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
-<h3 align="center">Crypto Noob | Rustacean</h3>
 
 - 🌱 I’m currently learning **Rust & Go.**
 
