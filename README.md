@@ -1,4 +1,4 @@
-<h1 align="left">👋 I'm Liang-Yu</h1>
+<h1 align="left">👋 I'm Liang</h1>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/%E5%8B%95%E7%95%AB%E5%B8%AB%E8%BD%89%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%B8%BD%E8%A2%AB%E5%95%8F%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E9%81%B8%E5%89%8D%E7%AB%AF)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leon-chen-dev)
