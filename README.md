@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Rust & Go.**
 
-- 👯 I’m looking to collaborate on **projects on Solana.**
-
 - 💬 Ask me about: **PHP (Laravel), Rust, Go, React, and even computer animation 🤣**
 
 - ⚡ Fun fact: **an ex-3D-animator dreamed to work at Pixar 🦄**
