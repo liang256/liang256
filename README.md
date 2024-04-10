@@ -1,5 +1,7 @@
 👋 I'm Liang
 
+Software Developer | Backend Engineer | Python Developer | Pipeline TD
+
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/liang256)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liangyu.chen.dev@gmail.com)
@@ -7,15 +9,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/%E5%8B%95%E7%95%AB%E5%B8%AB%E8%BD%89%E5%BE%8C%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E7%B8%BD%E8%A2%AB%E5%95%8F%E7%82%BA%E4%BB%80%E9%BA%BC%E4%B8%8D%E9%81%B8%E5%89%8D%E7%AB%AF)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://liang256.github.io)
 
-A coding enthusiast who gets a kick out of bringing algorithms to life and diving deep into the world of animation and film. 🎞️🐍
-
-📽️ Animation and film are my jam! I love exploring the intersection of storytelling and technology, where every frame is a new adventure.
-
-🧩 Algorithm wizardry? Count me in. There’s nothing like the eureka moment when a complex problem unravels.
-
-🌟 Check out my projects where I merge my love for animation, film, and algorithm challenges. It's where creativity meets logic!
-
-📬 Want to chat about the latest animation tech or share a quirky CS meme? Drop a message!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> </p>
